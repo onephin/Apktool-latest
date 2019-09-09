@@ -29,6 +29,8 @@ Try these Files and follow steps it may help you to solve your problem.
 ### Is this helpful? If yes support us on Patreon
 #### https://www.patreon.com/onephin
 
+### If isn't works try this : ' https://github.com/onephin/onephin-apktool '
+
 ## Follow us on:
 * Website: https://onephin.com
 * Twitter: https://twitter.com/onephin
