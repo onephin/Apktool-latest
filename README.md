@@ -1,7 +1,7 @@
 # Apktool-latest
 If You are using APKtool in Linux or Windows and you get Error while using #compile or #decompile commands which prompt that 
 ##### Apktool Don't Compile  
-### or
+###or
 ##### Apktool Don't Build 
 Try this Files and follow steps it may help you to solve your problem.
 
