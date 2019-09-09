@@ -1,5 +1,5 @@
 # Apktool-latest
-If You are using APKtool in Linux or Windows and you get Error while using #compile or #decompile commands which prompt that 
+If You are using APKtool in Linux or Windows and you get Error while using ' compile ' or ' decompile ' commands which prompt that 
 ##### ' Apktool Don't Compile '  
 ### or
 ##### ' Apktool Don't Build '
