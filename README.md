@@ -33,12 +33,7 @@ https://www.patreon.com/onephin
 Follow us on:
 -----------------------------------------------------------------------------------------------------------
 Website: https://onephin.com
-
 Twitter: https://twitter.com/onephin
-google+: https://plus.google.com/+Onephin
-linkedin: https://www.linkedin.com/company/15232484
-tumblr: http://onephincom.tumblr.com
 vimeo: https://vimeo.com/onephin
 Github: https://github.com/onephin
 instagram: https://www.instagram.com/onephincom
-pinterest: https://www.pinterest.com/onephin
